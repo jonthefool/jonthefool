@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  <h1>Hi, I'm João Felipe</h1>
+  <h1>Hi, I'm João Felipe Bonifácio</h1>
 </div>
 
 <div align="center">
@@ -44,8 +44,6 @@
 </div>
 
 <br/>
-<hr>
-<br/>
 
 <h2 id="-português" align="center">🇧🇷 Português</h2>
 
@@ -71,8 +69,6 @@
   </table>
 </div>
 
-<br/>
-<hr>
 <br/>
 
 <div align="center">
