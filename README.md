@@ -67,11 +67,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonthefool&show_icons=true&theme=bear&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonthefool&layout=compact&langs_count=7&theme=bear&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonthefool&theme=bear&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
