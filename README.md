@@ -4,6 +4,12 @@
 </div>
 
 <div align="center">
+  <p>
+    <a href="#-english">🇺🇸 English</a> | <a href="#-português">🇧🇷 Português</a>
+  </p>
+</div>
+
+<div align="center">
   <h3>Quality Engineering Associate (QA Jr)</h3>
 
   <img src="https://img.shields.io/badge/Focus-Quality%20Engineering-blue?style=for-the-badge" />
