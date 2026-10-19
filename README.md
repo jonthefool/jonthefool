@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>João Felipe Bonifácio</h1>
-  <h3>QA Jr. · Automação de Testes (API e UI)</h3>
+  <h3>QA Jr. · Automação de Testes</h3>
 
   <p>Accenture · CESAR School · Recife, PE</p>
 
