@@ -99,7 +99,7 @@ Entrei na Accenture após concluir o QA Academy, programa de dois meses sobre fe
 
 <br/>
 
-**QA Jr. at Accenture · Test Automation (API and UI) · Recife, Brazil**
+**QA Jr. at Accenture · Test Automation · Recife, Brazil**
 
 I'm an early-career QA working on test automation, and a student of Information Systems Analysis and Development at CESAR School. I like investigating why a test fails, not just reporting that it failed: reproduce it, isolate the cause and document it with evidence.
 
